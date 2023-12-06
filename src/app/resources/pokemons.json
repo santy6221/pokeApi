@@ -1,0 +1,14 @@
+{
+    "Pokemons" : {
+        "Charmander" : {
+            "type" : "Fire",
+            "WeakTo" : "Water",
+            "image" : "link"
+        },
+        "Squirtle" : {
+            "type" : "Water",
+            "WeakTo" : "Earth",
+            "image" : "link"
+        }
+    }
+}
